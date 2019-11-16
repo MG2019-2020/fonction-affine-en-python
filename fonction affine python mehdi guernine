@@ -1,0 +1,7 @@
+n=int(input())
+p=int(input())
+x=0
+for loop in range (10)
+y=m*x+p
+print(y)
+x=x+1
